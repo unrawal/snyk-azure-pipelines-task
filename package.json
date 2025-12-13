@@ -26,7 +26,7 @@
   "author": "snyk.io",
   "license": "Apache-2.0",
   "dependencies": {
-    "azure-pipelines-task-lib": "^3.4.0",
+    "azure-pipelines-task-lib": "^5.2.3",
     "jquery": "^3.4.1",
     "vss-web-extension-sdk": "^5.141.0"
   },
