@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "azure-pipelines-task-lib": "^3.4.0"
+    "azure-pipelines-task-lib": "^5.2.3"
   }
 }
